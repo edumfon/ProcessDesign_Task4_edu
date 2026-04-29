@@ -15,7 +15,7 @@ This is achieved by executing the following program:
     or  t0, t4, t6    ; t0 = t4 | t6
 
 • File Structure
-Task4Processor/
+ProcessDesign_Task4_edu/
  instruction.py 
  register_file.py 
  alu.py 
